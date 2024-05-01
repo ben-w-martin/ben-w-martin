@@ -1,4 +1,4 @@
-Passionate Full Stack Software Engineer specializing in crafting appealing frontends with React, and fast and secure middle and backend services using C#/.NET, ASP.NET, and T-SQL. My strengths: ❗️ 👇👇👇 ❗️
+Passionate Full Stack Software Engineer specializing in crafting appealing frontends with React and fast and secure backends using C#/.NET and T-SQL. My strengths: ❗️ 👇👇👇 ❗️
 
 🎨 CUSTOM DESIGN: Crafting visually appealing user interfaces with Sass/CSS. Desktop and Mobile-first development with an emphasis on responsiveness and user experience. 
 
