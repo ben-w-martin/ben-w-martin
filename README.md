@@ -9,3 +9,5 @@ Passionate Full Stack Software Engineer specializing in crafting responsive user
 🧮 DATA NORMALIZATION: Ensuring data integrity and minimizing redundancy through normalization, optimizing database performance and efficiency.
 
 🔎 CURIOSITY:  Understanding how simple logical principles can ultimately produce amazing digital and technological outcomes. Never complacent, but committed to ongoing learning and improvement, staying updated on the latest trends and best practices in web development.
+
+[![wakatime](https://wakatime.com/badge/user/018cd9f4-28fd-4a05-a897-4dabcbbd3280.svg)](https://wakatime.com/@018cd9f4-28fd-4a05-a897-4dabcbbd3280)
